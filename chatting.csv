@@ -1,0 +1,9 @@
+input,output1,output2,output3
+my name is (.*),"Hello %1, How are you today ?",,
+what is your name ?,My name is chatbot,,
+(.*) age?,"I'm a computer program dude.. Seriously you are asking me this?""",,
+sorry (.*),Its alright,"Its OK, never mind",
+thank you (.*),welcome,most welcome,
+hello,Hello,hi,
+headache,"Dr. xyz, near deccan, 90xxxxxxxxx",,
+near by hospitals ,"xyz,abc",,
